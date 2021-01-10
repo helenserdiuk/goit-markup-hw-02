@@ -51,8 +51,14 @@ p{
 }
 
 .nav-item:hover,
-.nav-item:focus{
+.nav-item:focus
+.nav-item:any-link {
     color: var(--link-text-color);
+}
+
+.fair{
+background: var(--link-text-color);
+color: white;
 }
 
 /*Основной контент*/
@@ -130,10 +136,17 @@ footer{
 
 .footer-address{
     color: #FFFFFF;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
 }
 
 .footer-contact {
     color: rgba(255, 255, 255, 0.6);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71px;
 }
 
 .works-header, .team-header {
