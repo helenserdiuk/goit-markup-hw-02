@@ -25,13 +25,14 @@ p{
 /* Шапка*/
 
 .nav-logo{
-    font-family: Raleway;
+    font-family: 'Raleway';
     font-weight: 700;
     font-size: 26px;
     line-height: 1.2;
 }
 
 .header-logo {
+    font-family: 'Raleway';
     color: var(--link-text-color);
 }
 
@@ -101,14 +102,14 @@ p{
 .team-name {
     font-weight: 500;
     font-size: 16px;
-    line-height: 1.19px;
+    line-height: 1.2;
     text-align: center;
 }
 
 .name-direction {
     font-weight: 400;
     font-size: 16px;
-    line-height: 1.19;
+    line-height: 1.2;
     text-align: center;
 }
 
@@ -121,7 +122,7 @@ footer{
 
 .footer-logo {
     color: #FFFFFF;
-    font-family: Raleway;
+    font-family: 'Raleway';
     font-weight: 700;
     font-size: 26px;
     line-height: 1.2;
