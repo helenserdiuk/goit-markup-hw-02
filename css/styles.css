@@ -57,8 +57,7 @@ p{
 }
 
 .fair{
-background: var(--link-text-color);
-color: white;
+color: var(--link-text-color);
 }
 
 /*Основной контент*/
